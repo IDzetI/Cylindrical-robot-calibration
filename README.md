@@ -2,4 +2,6 @@
 
 main scripts is:
 * main.mlx
-* main.m
+* mainZ.m
+
+!["Compare calibrated and uncalibrated trajectory"](trajectory.png)
