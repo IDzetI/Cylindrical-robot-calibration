@@ -1,4 +1,5 @@
-# tripteron_vjm_matlab
-Run "vjm.m" to see the result
+# Cylindrical robot calibration
 
-!["deflection map for \[0 0 100\]"](deflections.jpeg)
+main scripts is:
+* main.mlx
+* main.m
